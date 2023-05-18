@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215087759646",
+    "project_id": "chats-9bec1",
+    "storage_bucket": "chats-9bec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215087759646:android:b7c63c06c18f71ff98490f",
+        "android_client_info": {
+          "package_name": "uz.alpha.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215087759646-d8sj0m3p49ponln1hq0sa3cbmttf98du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.alpha.messenger",
+            "certificate_hash": "450620b8753328f39851a2cf51691a51b4d4c03f"
+          }
+        },
+        {
+          "client_id": "215087759646-9m4nqn9tvnign65sq3fvramngqdnu3p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5nvVKUwdsldtu2iHahlhafQ1ZYycU78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215087759646-6me26tgvo2e38hs1l6jtpo7944gulkhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
